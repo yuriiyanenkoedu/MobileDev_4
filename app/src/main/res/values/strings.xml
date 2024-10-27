@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">DMA_Lab3</string>
+
+    <string-array name="mFirstStr">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+        <item>Seventh</item>
+        <item>Eighth</item>
+        <item>Ninth</item>
+        <item>Tenth</item>
+        <item>Eleventh</item>
+        <item>Twelfth</item>
+        <item>Thirteenth</item>
+        <item>Fourteenth</item>
+        <item>Fifteenth</item>
+        <item>Sixteenth</item>
+        <item>Seventeenth</item>
+        <item>Eighteenth</item>
+        <item>Nineteenth</item>
+        <item>Twentieth</item>
+        <item>Twenty-first</item>
+        <item>Twenty-second</item>
+        <item>Twenty-third</item>
+        <item>Twenty-fourth</item>
+        <item>Twenty-fifth</item>
+    </string-array>
+
+    <string-array name="mSecondStr">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </string-array>
+
+    <string-array name="mADStr">
+        <item>MONEY</item>
+        <item>FREE</item>
+        <item>ITEM</item>
+    </string-array>
+</resources>
